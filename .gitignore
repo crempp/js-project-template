@@ -1,0 +1,16 @@
+#### Project ignores
+
+
+#### Development ignores
+tmp
+.sass-cache
+node_modules
+npm-debug.log
+
+#### IDE ignores
+.idea/*
+
+#### OS ignores
+*~
+
+
